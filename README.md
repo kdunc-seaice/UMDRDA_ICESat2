@@ -4,7 +4,7 @@ Provided here is code used to process ICESat-2 ATL03 files using the University 
 ### Step 1: UMD-RDA
 "Process_ATL03_Surface_Finding.py" contains code for the along-track processing of ICESat-2 ATL03 files with the University of Maryland-Ridge Detection Algorithm (UMD-RDA). 
 
-Please read the "Code Summary" and additional information that is provided at the top of the file before using. 
+#### Please read the "Code Summary" and "Usage Notes" along with all additional information that is provided at the top of the file before using. 
 
 Please see the "example_output" folder within this repository for figures showing two different profiles of surface elevation, one of the entire ~2200 km segment and another showing a 20 km zoom-in, obtained using the output from the "Process_ATL03_Surface_Finding.py" code when using the ATL03 file "ATL03_20190422132750_03710304_007_01.h5", acquired on April 22, 2019.
 
