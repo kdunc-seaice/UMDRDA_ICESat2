@@ -1,4 +1,4 @@
-# UMDRDA_Gridded_Data
+# UMDRDA_ICESat2
 Provided here is code used to process ICESat-2 ATL03 files using the University of Maryland-Ridge Detection Algorithm (UMD-RDA) and turn the ICESat-2 UMD-RDA along-track data into monthly grids, calculate monthly climatologies, monthly anomalies, and the removal of outliers. Gridded data files are calculated at three spatial resolutions of 25 km, 10 km, and 3.125 km.
 
 ### Step 1: UMD-RDA
